@@ -39,7 +39,7 @@ I’m currently focusing on building a strong foundation in **front-end web deve
 Some of the projects I have worked on while learning web development include:
 
 * A multilingual website that integrates translation features
-* A custom JavaScript video playe
+* A custom JavaScript video player
 * A responsive login page interface
 
 Additional projects will be added as I continue developing new skills and exploring different areas of web development.
